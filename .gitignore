@@ -1,1 +1,4 @@
 .env
+.ipynb_checkpoints
+agent-2.ipynb
+guidance-trial.ipynb
